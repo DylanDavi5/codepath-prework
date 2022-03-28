@@ -38,12 +38,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 Basic functionality:
+
 ![](https://user-images.githubusercontent.com/26559265/160478536-e5bb7a3b-0124-480a-829e-b57011eb1069.gif)
 
 Losing after 3 strikes:
+
 ![](https://user-images.githubusercontent.com/26559265/160478888-74e485ff-8973-451a-9350-fa1496716d6e.gif)
 
 Winning the game even with 1 strike:
+
 ![](https://user-images.githubusercontent.com/26559265/160479297-fc93c4a2-e2a7-4a4b-8201-20521bb1d632.gif)
 
 ## Reflection Questions
