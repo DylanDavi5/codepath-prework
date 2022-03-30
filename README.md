@@ -74,10 +74,12 @@ Originally, when considering which optional features to include I wanted to add 
 
 [My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/uxY35Hl-FbcePNUkbKnTsUAyfovNBvXIa-BkWftzzXgCwu6cBNzAcQQrrL1yAR9o.tfFwSHnN5OqqAeTf?startTime=1648630399000 (Passcode: &&GgM3KC))
 
+Passcode: &&GgM3KC
+
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright DYLAN DAVIS
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
