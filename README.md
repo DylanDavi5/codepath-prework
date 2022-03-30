@@ -72,7 +72,7 @@ Originally, when considering which optional features to include I wanted to add 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/uxY35Hl-FbcePNUkbKnTsUAyfovNBvXIa-BkWftzzXgCwu6cBNzAcQQrrL1yAR9o.tfFwSHnN5OqqAeTf?startTime=1648630399000 (Passcode: &&GgM3KC))
 
 
 ## License
