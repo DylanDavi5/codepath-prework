@@ -53,6 +53,7 @@ Winning the game even with 1 strike:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 Only briefly looked at some Javascript documentation for Math.random and for pushing to an array. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
